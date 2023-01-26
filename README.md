@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ### Blog
-<a href="[https://medium.com/@doohyeon.kim]"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Medium&logoColor=white"/></a> 
+<a href="https://medium.com/@doohyeon.kim"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Medium&logoColor=white"/></a> 
 
 
 ### Tech Stack
