@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on APTNER
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning Python, RUST
 - 📫 How to reach me: me@doohyeon.kim
 
 <!--
