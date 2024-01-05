@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on APTNER
-- 🌱 I’m currently learning Python, RUST
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: me@doohyeon.kim
 
 <!--
@@ -22,7 +22,7 @@
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=React&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=React&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF"/> 
 
