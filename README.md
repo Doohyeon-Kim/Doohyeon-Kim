@@ -4,17 +4,9 @@
 
 
 - 🔭 I’m currently working on APTNER
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning -
 - 📫 How to reach me: me@doohyeon.kim
 
-<!--
-**Doohyeon-Kim/Doohyeon-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 💬 Ask me about Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Blog
 <a href="https://medium.com/@doohyeon.kim"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Medium&logoColor=white"/></a> 
