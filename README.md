@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on APTNER
-- 🌱 I’m currently learning -
+- 🌱 I’m currently learning - kafka, k8s, kotlin
 - 📫 How to reach me: me@doohyeon.kim
 
 
