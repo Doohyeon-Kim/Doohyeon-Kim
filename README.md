@@ -8,30 +8,21 @@
 - 📫 How to reach me: me@doohyeon.kim
 
 
-### Blog
-<a href="https://medium.com/@doohyeon.kim"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Medium&logoColor=white"/></a> 
+## Blog
+<a href="https://medium.com/@doohyeon.kim"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"/></a> 
 
 
-### Tech Stack
+## Tech Stack
 
-Frameworks: <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=React&logoColor=FFFFFF"/>
+### Frameworks: <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
 
-Cloud Services: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF"/> 
+### Programming Languages: <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=000000"/> <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=FFFFFF"/> 
 
-Programming Languages: <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=000000"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> 
+### Cloud Services: <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF"/> 
 
-OS: <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/> 
+### OS: <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000"/> 
 
-ETC: <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=FFFFFF"/>
-
-
-<!--
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=FFFFFF"/>
--->
-
-
-
-
+### ETC: <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=FFFFFF"/>
 
 
 <!--
