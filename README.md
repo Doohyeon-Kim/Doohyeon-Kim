@@ -9,8 +9,9 @@
 
 
 ## Blog
+<!--
 <a href="https://medium.com/@doohyeon.kim"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"/></a> 
-
+-->
 
 ## Tech Stack
 
